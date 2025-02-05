@@ -1,0 +1,10 @@
+# Ignore system files
+AppData/
+.dbus-keyrings/
+.gitconfig
+Local Settings/
+My Documents/
+Templates/
+Recent/
+SendTo/
+Start Menu/
